@@ -3,6 +3,7 @@
 
 #pyl33t, a Python module to translate from annoying l33t text
 #to a not so annoying English text.
+#Tested on Python 2.7.6 and Python 3.3.3 in Linux i686
 #Copyright 2013 Ismael Castiñeira.
 
 #This program is free software: you can redistribute it and/or modify
